@@ -17,14 +17,14 @@
   },
   "analytics_engine_datasets": [
     {
-      "binding": "WAE",
-      "dataset": "urls_anallytics"
+      "binding": "Analytics",
+      "dataset": "short"
     }
   ],
   "kv_namespaces": [
     {
-      "binding": "KV_BINDING",
-      "id": "771d749f8c9a4ec18dbf44a5a760a195" // IMPORTANT: Change this to your KV namespace ID
+      "binding": "KV",
+      "id": "f84ad48519e248568e05512c2618fbd9" // IMPORTANT: Change this to your KV namespace ID
     }
   ]
 }
