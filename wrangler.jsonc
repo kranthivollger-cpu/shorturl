@@ -17,13 +17,13 @@
   },
   "analytics_engine_datasets": [
     {
-      "binding": "Analytics-engine",
+      "binding": "WAE",
       "dataset": "urls_anallytics"
     }
   ],
   "kv_namespaces": [
     {
-      "binding": "KV",
+      "binding": "KV_BINDING",
       "id": "771d749f8c9a4ec18dbf44a5a760a195" // IMPORTANT: Change this to your KV namespace ID
     }
   ]
